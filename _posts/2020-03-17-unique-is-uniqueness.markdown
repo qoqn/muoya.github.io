@@ -3,6 +3,7 @@ layout: post
 title:  "Unique is Uniqueness"
 date:   2020-03-17 18:43:06 +0700
 categories: update
+author: "Galih Akbar Moerbayaksa"
 ---
 Anda membaca post pertama dari kumpulan cerita tidak penting ini, apakah Anda segabut itu hingga membaca post ini? Daripada artikel ini kependekan mending baca cerita dibawah ini yuk.
 
